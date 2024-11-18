@@ -1,0 +1,3 @@
+[submodule "autoscroll"]
+	path = autoscroll
+	url = git@github.com:mane-23G/autoscroll.git
