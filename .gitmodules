@@ -7,3 +7,6 @@
 [submodule "logdata"]
 	path = logdata
 	url = git@github.com:mane-23G/logdata.git
+[submodule "sfind"]
+	path = sfind
+	url = git@github.com:mane-23G/sfind.git
