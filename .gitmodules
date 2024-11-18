@@ -1,3 +1,6 @@
 [submodule "autoscroll"]
 	path = autoscroll
 	url = git@github.com:mane-23G/autoscroll.git
+[submodule "datelist"]
+	path = datelist
+	url = git@github.com:mane-23G/datelist.git
