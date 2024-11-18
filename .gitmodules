@@ -4,3 +4,6 @@
 [submodule "datelist"]
 	path = datelist
 	url = git@github.com:mane-23G/datelist.git
+[submodule "logdata"]
+	path = logdata
+	url = git@github.com:mane-23G/logdata.git
